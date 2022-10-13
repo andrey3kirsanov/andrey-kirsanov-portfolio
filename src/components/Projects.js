@@ -31,7 +31,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Sonic Drive-In</h3>
                     <img src={sonic} alt="Sonic Drive-In Page" />
-                    <p>American drive-in fast food restaurant chain</p>
+                    <p>American drive-in fast food restaurant chain.</p>
 
                     <a href="https://www.sonicdrivein.com/" target="_blank" className="button">Site</a>
                 </div>

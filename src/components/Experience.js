@@ -10,6 +10,7 @@ const Experience = () => {
                         <li>Delivering projects for Flight Operations vertical</li>
                         <li>Designing solutions</li>
                         <li>Developing the back-end part</li>
+                        <li>Developing Lambdas</li>
                         <li>Deploying and debugging solutions for AWS Cloud Provider</li>
                     </ul>
                 </li>
@@ -18,12 +19,12 @@ const Experience = () => {
                     <ul>
                         <li>Participating in projects for 2 domains: healthcare domain and restaurant chain business domain</li>
                         <li>Development system with microservice architecture from scratch</li>
-                        <li>Azure functions development </li>
+                        <li>Developing Azure functions </li>
                         <li>Debugging solutions for Cloud Provider – Microsoft Azure</li>
                         <li>Participating in code reviews</li>
                         <li>Participating in daily stand-ups</li>
                         <li>Running daily stand-ups</li>
-                        <li>Support large complex system</li>
+                        <li>Large complex system support</li>
                     </ul>
                 </li>
                 <li>
@@ -31,8 +32,8 @@ const Experience = () => {
                     <ul>
                         <li>Delivering projects for a blockchain company</li>
                         <li>Designing solutions for the projects</li>
-                        <li>New features development</li>
-                        <li>Development of new microservices from scratch</li>
+                        <li>Developing new microservices from scratch</li>
+                        <li>Developing new features</li>
                         <li>Participating in code reviews</li>
                         <li>Participating in technical discussions</li>
                         <li>Documenting research results</li>
@@ -42,15 +43,15 @@ const Experience = () => {
                 <li>
                     <i className="company__name"><strong>Simbirsoft</strong></i> - <a className="position"><strong>Java Software Engineer</strong></a>, 2018-2020
                     <ul>
-                        <li>Participating in a project that is designed to protect the information in industrial systems.</li>
-                        <li>Participating in a project that is designed for opening brokerage accounts</li>
-                        <li>Participating in a project that designed for the work of debt collectors</li>
+                        <li>Participating in a project that is designed to protect the information in industrial systems</li>
+                        <li>Developing project that is designed for opening brokerage accounts</li>
+                        <li>Supporting project that is designed for the work of debt collectors</li>
                     </ul>
                 </li>
                 <li>
                     <i className="company__name"><strong>Altarix</strong></i> - <a className="position"><strong>Java Software Engineer</strong></a>, 2016-2018
                     <ul>
-                        <li>Participating in a project for accounting consumption of the population's resources in the sphere of municipal services</li>
+                        <li>Working in a team that was developing project for accounting consumption of the population's resources in the sphere of municipal services</li>
                     </ul>
                 </li>
                 <li>
