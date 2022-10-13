@@ -8,9 +8,9 @@ const Experience = () => {
                     <i className="company__name"><strong>VistaJet</strong></i> - <a className="position"><strong>Senior Java Software Engineer</strong></a>, 2022 till now
                     <ul>
                         <li>Delivering projects for Flight Operations vertical</li>
-                        <li>Designing solutions</li>
+                        <li>Designing the solutions</li>
                         <li>Developing the back-end part</li>
-                        <li>Developing Lambdas</li>
+                        <li>Developing serverless applications using AWS Lambdas</li>
                         <li>Deploying and debugging solutions for AWS Cloud Provider</li>
                     </ul>
                 </li>
@@ -19,8 +19,8 @@ const Experience = () => {
                     <ul>
                         <li>Participating in projects for 2 domains: healthcare domain and restaurant chain business domain</li>
                         <li>Development system with microservice architecture from scratch</li>
-                        <li>Developing Azure functions </li>
-                        <li>Debugging solutions for Cloud Provider – Microsoft Azure</li>
+                        <li>Developing serverless applications using Azure Functions</li>
+                        <li>Debugging solutions for Microsoft Azure Cloud Provider</li>
                         <li>Participating in code reviews</li>
                         <li>Participating in daily stand-ups</li>
                         <li>Running daily stand-ups</li>
@@ -44,8 +44,8 @@ const Experience = () => {
                     <i className="company__name"><strong>Simbirsoft</strong></i> - <a className="position"><strong>Java Software Engineer</strong></a>, 2018-2020
                     <ul>
                         <li>Participating in a project that is designed to protect the information in industrial systems</li>
-                        <li>Developing project that is designed for opening brokerage accounts</li>
-                        <li>Supporting project that is designed for the work of debt collectors</li>
+                        <li>Developing the project that is designed for opening brokerage accounts</li>
+                        <li>Supporting the project that is designed for the work of debt collectors</li>
                     </ul>
                 </li>
                 <li>
