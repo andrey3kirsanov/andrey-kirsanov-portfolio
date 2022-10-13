@@ -45,7 +45,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>VistaJet PFA System</h3>
+                    <h3>VistaJet Pre Flight Approval System</h3>
                     <img src={vista} alt="VistaJet Page" />
                     <p>Global business aviation company.</p>
 
