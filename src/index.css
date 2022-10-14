@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css');
 
 * {
   margin: 0;
@@ -109,7 +110,7 @@ code {
 .projects p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 50ch;
+  max-width: 65ch;
 }
 
 .projects__cards {
@@ -185,17 +186,77 @@ code {
 /* -- Social Media -- */
 
 .social h2 {
+  display: inline;
+  position: relative;
   font-size: 42px;
   margin: 25px auto;
 }
 
-.social .button {
-  margin: 0 15px;
+.social .contacts ul {
+  display: inline;
+  position: relative;
+  margin: 25px auto;
+  min-width: 696px;
+}
+
+.social ul li {
+  display: inline;
+  float: left;
+  left: 50%;
+  width: 80px;
+  height: 90px;
+  padding-top: 10px;
+  list-style: none;
+}
+
+.social ul li a {
+  width: 60px;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0 10px;
+  border-radius: 50%;
+  padding: 6px;
+  box-sizing: border-box;
+  text-decoration: none;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
+  transition: .5s;
+}
+
+.social ul li a:hover {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  text-decoration: none;
+}
+
+.social ul li a .fab {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: linear-gradient(0deg, #fff, #ddd);
+  border-radius: 50%;
+  line-height: calc(60px - 12px);
+  font-size: 24px;
+  color: #262626;
+  transition: .5s;
+}
+
+.social ul li:nth-child(1) a:hover .fab {
+  color: #dd4b39;
+}
+
+.social ul li:nth-child(2) a:hover .fab {
+  color: #00aced;
+}
+
+.social ul li:nth-child(3) a:hover .fab {
+  color: #82868c;
 }
 
 /* ------------------------------------------------------ */
 /* -- Footer -- */
 .footer {
+  padding-top: 85px;
   margin: 0 auto;
   text-align: center;
 }
@@ -204,27 +265,21 @@ code {
 /* -- HTML COMPONENTS: BUTTON -- */
 .button {
   display: inline-block;
-
-  background: #05034a;
-
+  box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
   padding: 15px 50px;
-
   border: none;
   border-radius: 8px;
-
   font-family: "Work Sans";
   font-size: 16px;
   font-weight: 700;
   text-decoration: none;
-
-  color: white;;
-
+  color: black;
   cursor: pointer;
-
   transition: all 250ms ease;
 }
 
 .button:hover {
-  background: #2f29ff;
-  color: #FFFFFF;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  color: black;
 }

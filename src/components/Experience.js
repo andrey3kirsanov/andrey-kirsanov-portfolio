@@ -37,7 +37,7 @@ const Experience = () => {
                         <li>Participating in code reviews</li>
                         <li>Participating in technical discussions</li>
                         <li>Documenting research results</li>
-                        <li>Participating in grooming and estimations sessions</li>
+                        <li>Participating in grooming and estimation sessions</li>
                     </ul>
                 </li>
                 <li>
