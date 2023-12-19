@@ -7,24 +7,30 @@ const Experience = () => {
                 <li>
                     <i className="company__name"><strong>VistaJet</strong></i> - <a className="position"><strong>Senior Java Software Engineer</strong></a>, 2022 till now
                     <ul>
-                        <li>Delivering projects for Flight Operations vertical</li>
-                        <li>Designing the solutions</li>
-                        <li>Developing the back-end part</li>
-                        <li>Developing serverless applications using AWS Lambdas</li>
-                        <li>Deploying and debugging solutions for AWS Cloud Provider</li>
+                        <li>Delivering projects for Flight Operations vertical of global aviation company</li>
+                        <li>Participating in developing Air Hamburg integration (Lambdas, S3 bucket, DynamoDB, Kafka, SFTP)</li>
+                        <li>Participating in developing Pre Flight Approval System (Lambdas, ECS, SNS, SQS, SES, DynamoDB, DocumentDB, Step Functions, Kafka, SOAP)</li>
+                        <li>Participating in developing Arrangements System (Lambdas, ECS, SQS, DynamoDB, MySQL, Oracle, Step Functions, JOOQ, Kafka)</li>
+                        <li>Designing and building advanced applications</li>
+                        <li>Unit-testing code for robustness, including edge cases, usability, and general reliability</li>
+                        <li>Fixing bugs and improving application performance</li>
+                        <li>Contributing to end-to-end data processes (design, building, and launching) of new features, </li>
+                        <li> &nbsp;&nbsp; including integrations, data models, data pipelines, and infrastructure</li>
                     </ul>
                 </li>
                 <li>
                     <i className="company__name"><strong>EPAM</strong></i> - <a className="position"><strong>Senior Java Software Engineer</strong></a>, 2020-2022
                     <ul>
                         <li>Participating in projects for 2 domains: healthcare domain and restaurant chain business domain</li>
+                        <li>Performing technical design, developing software, writing code, SQL statements, building releases and updates,</li>
+                        <li> &nbsp;&nbsp; and performing other engineering activities</li>
+                        <li>Developed software with high standards of quality, scalability, performance, maintainability, security</li>
+                        <li>Performing unit testing of the work before it is released to QA for testing, troubleshooting product issues and develop resolutions</li>
+                        <li>Creating and updating documentation</li>
                         <li>Development system with microservice architecture from scratch</li>
                         <li>Developing serverless applications using Azure Functions</li>
-                        <li>Debugging solutions for Microsoft Azure Cloud Provider</li>
                         <li>Participating in code reviews</li>
                         <li>Participating in daily stand-ups</li>
-                        <li>Running daily stand-ups</li>
-                        <li>Large complex system support</li>
                     </ul>
                 </li>
                 <li>

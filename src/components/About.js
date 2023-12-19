@@ -5,12 +5,12 @@ const About = () => {
     return (
         <section className='about'>
             <h2>About Me</h2>
-              <p>I'm a backend developer with 6 years of experience.</p>
+              <p>I'm a backend developer with 8 years of experience.</p>
               <p>I have experience in developing projects with microservice and monolithic architectures.</p>
               <br/>
               <p>Technologies and tools:</p>
               <p>✓ Spring framework (Spring Boot, Spring Cloud, Spring Data, Spring JDBC, Spring Security,</p>
-              <p> &nbsp;&nbsp; Spring Kafka, Spring AMQP,Spring Cloud Stream), Hibernate</p>
+              <p> &nbsp;&nbsp; Spring Kafka, Spring AMQP, Spring Cloud Stream), Hibernate</p>
               <p>✓ Serverless applications (Azure Functions, AWS Lambdas)</p>
               <p>✓ Relational databases (Oracle, PostgreSQL)</p>
               <p>✓ NoSQL databases (MongoDB, Hazelcast, DynamoDB)</p>
